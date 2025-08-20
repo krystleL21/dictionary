@@ -1,5 +1,5 @@
 import React from 'react';
-import kluxlogo from './kluxlogo.png';
+import kluxlogo from './assets/kluxlogo.png';
 import './App.css';
 import Dictionary from './Dictionary';
 
